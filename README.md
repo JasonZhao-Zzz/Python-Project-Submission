@@ -1,7 +1,8 @@
 ```markdown
 # Open Library Book Recommendation System
 
-A Python-based interactive command-line tool that allows users to search, browse and get detailed information about books using the Open Library API.
+A Python-based interactive command-line tool that allows users to search,
+browse and get detailed information about books using the Open Library API.
 
 ## Features
 
