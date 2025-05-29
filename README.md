@@ -3,9 +3,6 @@
 
 A Python-based interactive command-line tool that allows users to search, browse and get detailed information about books using the Open Library API.
 
-![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 ## Features
 
 - Search books by keywords
