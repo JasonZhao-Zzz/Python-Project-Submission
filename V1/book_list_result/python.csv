@@ -1,0 +1,101 @@
+title,authors,first_publish_year,language,subjects,subject,edition_count
+Learning Python,"Mark Lutz, David Ascher",1999,eng,,python,22
+Python,Mark Lutz,1998,ger,,python,13
+Think Python,"Allen B. Downey, Allen Downey",2009,eng,,python,11
+Python For Data Analysis,Wes McKinney,2012,eng,,python,8
+Fluent Python,Luciano Ramalho,2015,eng,,python,6
+Python Cookbook,"Alex Martelli, David Ascher, David Beazley, Brian K. Jones",2002,eng,,python,7
+Automate the Boring Stuff with Python,Al Sweigart,2015,eng,,python,4
+Python crash course,Eric Matthes,2015,eng,,python,2
+Black Hat Python: Python Programming for Hackers and Pentesters,"Justin Seitz, Tim Arnold",2014,pol,,python,3
+Data science from scratch,Joel Grus,2015,eng,,python,4
+Programming Python,Mark Lutz,1996,eng,,python,10
+"Python Crash Course, 2nd Edition",Eric Matthes,2019,,,python,1
+Verdi,Janell Cannon,1997,spa,,python,14
+Introduction to Machine Learning with Python,"Andreas C. Mueller, Sarah Guido",2016,eng,,python,2
+Python Data Science Handbook,Jake VanderPlas,2016,eng,,python,2
+Core Python programming,Wesley Chun,2006,eng,,python,2
+Python Playground,Mahesh Venkitachalam,2015,eng,,python,2
+Head First Python,Paul Barry,2010,eng,,python,9
+Python,Martin C. Brown,2001,eng,,python,3
+Automate the Boring Stuff with Python,Albert Sweigart,2015,eng,,python,2
+Python Basics,Unknown,2019,eng,,python,1
+The foolish tortoise,"Richard Buckley, Buckley, Richard",1985,ger,,python,18
+Python,Byron Francis,2016,eng,,python,1
+Beginning Python,James R. Payne,2010,eng,,python,6
+Python for dummies,"Stef Maruch, Aahz Maruch",2006,eng,,python,5
+Raspberry Pi User Guide,Eben Upton,2012,eng,,python,16
+Django for Professionals,William S. Vincent,2019,,,python,1
+Python machine learning,Sebastian Raschka,2015,eng,,python,4
+Data Structures and Algorithms in Python,"Michael T. Goodrich, Roberto Tamassia, Michael H Goldwasser",2012,eng,,python,3
+Deep Learning with Python,Francois Chollet,2017,eng,,python,2
+Starting out with Python,Tony Gaddis,2008,eng,,python,4
+Python programming,John M. Zelle,2003,eng,,python,2
+Learn Programming,Antti Salonen,2018,eng,,python,1
+Introduction To Computation And Programming Using Python,John Guttag,2013,eng,,python,3
+Python All-in-One For Dummies,"John Shovic, Alan Simpson",2019,eng,,python,6
+Effective Python,Brett Slatkin,2015,eng,,python,8
+Python in a Nutshell,"Alex Martelli, Anna Ravenscroft, Steve Holden",2002,eng,,python,8
+Python for Kids,Jason R. Briggs,2012,eng,,python,4
+Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles,Narasimha Karumanchi,2015,,,python,1
+Starting Out with Python,Tony Gaddis,2020,eng,,python,2
+"Think Like a Programmer, Python Edition",V. Anton Spraul,,eng,,python,1
+Game Programming With Python (Game Development Series),Sean Riley,2003,eng,,python,1
+Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaw's Hard Way Series),Zed A. Shaw,2017,,,python,1
+Hands-On Machine Learning with Scikit-Learn and TensorFlow,Aurélien Géron,2017,eng,,python,1
+Starting Out with Python (4th Edition),Tony Gaddis,2017,,,python,1
+Python essential reference,David M. Beazley,2000,eng,,python,8
+Elements of programming interviews in Python,Adnan Aziz,2017,eng,,python,1
+Natural Language Processing With Python,"Edward Loper, Steven Bird, Ewan Klein",2009,eng,,python,6
+Learn Python The Hard Way A Very Simple Introduction To The Terrifyingly Beautiful World Of Computers And Code,Zed Shaw,2012,,,python,1
+Python scripts for Abaqus,Gautam Puri,2011,eng,,python,1
+Understanding coding with Python,Patricia Harris,2016,eng,,python,1
+Think Stats,Allen B. Downey,2011,eng,,python,8
+Web Scraping with Python,Ryan Mitchell,2015,eng,,python,5
+Dive into Python,Mark Pilgrim,2004,eng,,python,1
+Let Us Python,Yashavant Kanetkar,2019,eng,,python,2
+Introduction to Python Programming,"Gowrishankar S, Veena A",2018,eng,,python,5
+Think Complexity: Complexity Science and Computational Modeling,Allen B. Downey,2012,eng,,python,5
+The Hitchhiker’s Guide To Python,"Kenneth Reitz, Tanya Schlusser",2016,eng,,python,1
+Python Algorithms,Magnus Lie Hetland,2010,eng,,python,4
+"Introduction to Computation and Programming Using Python, third edition",John V. Guttag,2021,,,python,1
+Monty Python & the Holy Grail,Monty Python,1977,eng,,python,6
+Introducing Python,Bill Lubanovic,2013,eng,,python,3
+Violent Python A Cookbook For Hackers Forensic Analysts Penetration Testers And Security Engineers,Tj O'Connor,2012,,,python,1
+Beginning Programming with Python for Dummies,John Paul Mueller,2014,eng,,python,7
+Cracking Codes with Python,Al Sweigart,2018,,,python,1
+Python,Jim Knowlton,2008,eng,,python,3
+Foundations of Python network programming,"John Goerzen, Brandon Rhodes",2004,eng,,python,4
+Python for Data Science for Dummies,"John Paul Mueller, Luca Massaron",2015,eng,,python,8
+Python GUI Programming with Tkinter: Develop responsive and powerful GUI applications with Tkinter,Alan D. Moore,2018,,,python,1
+Discovering Computer Science,Jessen Havill,2015,eng,,python,11
+Python for Finance: Analyze Big Financial Data,Yves Hilpisch,2014,eng,,python,4
+Game Development Using Python,James R. Parker,2018,eng,,python,6
+"Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud","Paul J. Deitel, Harvey Deitel",2019,,,python,1
+Learning Scientific Programming with Python,Christian Hill,2015,eng,,python,2
+Programming the Raspberry Pi,Simon Monk,2012,eng,,python,3
+Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series),Zed A. Shaw,2017,,,python,1
+Raspberry Pi,Charles R. Severance,2013,eng,,python,3
+A Smarter Way to Learn Python,Mark Myers,2017,eng,,python,1
+Learn to Program Using Python,Alan Gauld,2000,eng,,python,2
+Python programming in context,Bradley N. Miller,2009,eng,,python,6
+Computational physics,"Rubin H. Landau, Manuel J. Páez, Cristian C. Bordeianu",1997,eng,,python,13
+Python for kids for dummies,Brendan Scott,2015,eng,,python,3
+"Python Programming: An Introduction to Computer Science, 3rd Ed.",John Zelle,2016,,,python,1
+High Performance Python: Practical Performant Programming for Humans,"Micha Gorelick, Ian Ozsvald",2014,eng,,python,4
+Invent your Own Computer Games with Python,Al Sweigart,2009,eng,,python,5
+So anyway...,John Cleese,2014,eng,,python,9
+Python machine learning from scratch,Jonathan Adam,2016,eng,,python,1
+Python,"Bradley N. Miller, David L. Ranum",2013,eng,,python,1
+Python for bioinformatics,Sebastian Bassi,2009,eng,,python,10
+The Practice of Computing Using Python,"William F. Punch, Richard Enbody",2012,eng,,python,6
+Beginning Game Development with Python and Pygame,"Will McGugan, Harrison Kinsley",2007,eng,,python,4
+Python Guide Documentation,Kenneth Reitz,2018,eng,,python,1
+Test-Driven Development with Python,Harry J.W. Percival,2014,eng,,python,3
+Python,Christopher Cheng,2013,eng,,python,4
+Python's Party,Brian Wildsmith,1974,eng,,python,6
+The definitive guide to Django,"Adrian Holovaty, Jacob Kaplan-Moss",2007,eng,,python,4
+Flask Web Development,Miguel Grinberg,2014,eng,,python,3
+Coding - Computer Programming,Mike Saunders,2017,eng,,python,1
+Introduction to Computer Science Using Python: A Computational Problem-Solving Focus,Charles Dierbach,2012,,,python,1
+Python 3 object oriented programming,Dusty Phillips,2010,eng,,python,4
